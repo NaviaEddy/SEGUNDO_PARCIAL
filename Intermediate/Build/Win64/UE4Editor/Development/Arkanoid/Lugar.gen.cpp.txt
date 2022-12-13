@@ -1,0 +1,7 @@
+E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Source\Arkanoid/Lugar.h
+E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Source\Arkanoid\Entrada.h
+E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Entrada.generated.h
+E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Lugar.generated.h

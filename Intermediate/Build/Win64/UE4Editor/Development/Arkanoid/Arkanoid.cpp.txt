@@ -1,0 +1,2 @@
+E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Source\Arkanoid\Arkanoid.h

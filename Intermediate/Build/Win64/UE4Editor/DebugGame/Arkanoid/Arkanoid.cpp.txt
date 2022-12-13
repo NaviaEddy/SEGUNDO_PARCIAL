@@ -1,0 +1,2 @@
+D:\C++\GameUSFX\Arkanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arkanoid\Definitions.Arkanoid.h
+D:\C++\GameUSFX\Arkanoid\Source\Arkanoid\Arkanoid.h

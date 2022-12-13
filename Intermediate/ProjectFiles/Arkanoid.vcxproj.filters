@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Arkanoid.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F1B9B2E1-1ADC-4D21-9C8B-25146A674634}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Arkanoid.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ArkanoidEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F8DCCB0A-374C-4A90-9463-5F06E9E9A017}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Arkanoid">
+      <UniqueIdentifier>{775446B6-CDA6-4F84-8ADA-398F4D20CBF9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Arkanoid\AgujeroDeGusano.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\AgujeroDeGusano.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Arkanoid\Arkanoid.Build.cs">
+      <Filter>Source\Arkanoid</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Arkanoid\Arkanoid.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\Arkanoid.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\ArkanoidGameModeBase.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\ArkanoidGameModeBase.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\Ball.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\Ball.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\BallBound.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\BallBound.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\Brick.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\Brick.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\Entrada.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\Entrada.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\Lugar.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\Lugar.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\Paddle.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\Paddle.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\Paddle_PlayerController.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\Paddle_PlayerController.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\Teletransportacion.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\Teletransportacion.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

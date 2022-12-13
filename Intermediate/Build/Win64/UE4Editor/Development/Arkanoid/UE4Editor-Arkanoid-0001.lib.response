@@ -1,0 +1,33 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Arkanoid-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\ArkanoidEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\AgujeroDeGusano.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Arkanoid.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\ArkanoidGameModeBase.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Ball.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\BallBound.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Brick.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Entrada.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Lugar.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Paddle.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Paddle_PlayerController.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Teletransportacion.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\AgujeroDeGusano.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Arkanoid.init.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\ArkanoidGameModeBase.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Ball.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\BallBound.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Brick.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Entrada.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Lugar.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Paddle.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Paddle_PlayerController.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Teletransportacion.gen.cpp.obj"
+"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Default.rc2.res"
+/OUT:"E:\USFX\4to Semestre\SIS457-R\SEGUNDO PARCIAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\UE4Editor-Arkanoid-0001.lib"
